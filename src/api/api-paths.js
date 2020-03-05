@@ -1,4 +1,4 @@
-const API_BASE_PATH = 'http://www.omdbapi.com/'
+const API_BASE_PATH = 'https://www.omdbapi.com/'
 
 export default {
   api: {

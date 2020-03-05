@@ -91,6 +91,7 @@
 
     .dropdown {
       border: 1px solid lightgray;
+      padding: 10px;
       select {
         padding: 10px 12px;
         font-size: 16px;
